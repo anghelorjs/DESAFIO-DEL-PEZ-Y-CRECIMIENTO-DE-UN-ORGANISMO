@@ -122,7 +122,8 @@ w_{max} = \left(\frac{a}{b}\right)^3 = 15.625 \text{ lb}
 
 ---
 
-**Autor:** _(FIDEL ANGEL ROJAS CONDORI)_  
+**Autor:** _FIDEL ANGEL ROJAS CONDORI_  
 **Materia:** Métodos Numéricos  
 **Año:** 2025
+
 
